@@ -25,7 +25,7 @@ Alternatively, you can create your own .docx template with your own preferences 
 ```
 py -m venv <name of your venv>
 cd <name of your venv>
-git clone ...
+git clone https://github.com/johncmanuel/writeBook.git
 pip install requirements.txt
 ```
 
